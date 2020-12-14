@@ -4,9 +4,9 @@ Common Data Structures Implemented in C
 ## Done
 - Binary Search Tree (Needs to implement Self-Balancing)
 - Dynamic list
+- LinkedList
 
 ## To Do
-- LinkedList
 - HashMap
 - Heap
 - Set
