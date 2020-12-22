@@ -5,10 +5,10 @@ Common Data Structures Implemented in C
 - Binary Search Tree (Needs to implement Self-Balancing)
 - Dynamic list
 - LinkedList
+- Fenwick Tree
 
 ## To Do
 - HashMap
 - Heap
 - Set
 - Segment Tree
-- Fenwick Tree
