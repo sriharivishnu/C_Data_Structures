@@ -2,7 +2,7 @@
 Common Data Structures Implemented in C
 
 ## Done
-- Binary Search Tree (Needs to implement Self-Balancing)
+- Binary Search Tree
 - Dynamic list
 - LinkedList
 - Fenwick Tree
