@@ -1,5 +1,7 @@
 # C_Data_Structures
-Common Data Structures Implemented in C
+Common Data Structures Implemented in C.
+
+**Because Why Not? :)**
 
 ## Done
 - Binary Search Tree
